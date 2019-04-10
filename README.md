@@ -4,4 +4,4 @@ Convert any image to a base64 data url. Easy when you quickly need to inline ima
 
 Added support for the file:// protocol and inline svg.
 
-Icon attribution information can be found here: assets\icon-licensing.txt
+Icon attribution information can be found here: assets/icon-licensing.txt
