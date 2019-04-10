@@ -1,3 +1,5 @@
-# Save SVG URL
+# Copy data url
 
-A simple chrome extension that let's you search for the selected text in UrbanDictionary.
+Convert any image to a base64 data url. Easy when you quickly need to inline images in your html or css pages.
+
+Added support for the file:// protocol and inline svg.
