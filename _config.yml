@@ -1,3 +1,27 @@
 theme: jekyll-theme-cayman
 show_downloads: true
+title: Copy data url
 google_analytics: UA-90014538-4
+twitter:
+  picture: https://esstudio.site/assets/img/logo.png
+  username: esstudio_site
+author: Sem Postma
+description: Convert any image to a base64 data url. Easy when you quickly need to inline images in your html or css pages.
+lang: en
+logo: assets/icon128.png
+social: 
+  - https://dribbble.com/es_studio
+  - https://www.facebook.com/ES-Studio-2052606714783317
+  - https://www.flickr.com/photos/es_studio
+  - https://github.com/LesterGallagher
+  - https://www.pinterest.com/eestudio0040
+  - https://www.twitter.com/esstudio_site
+  - https://youtube.com/9Wereld
+defaults:
+  - scope:
+      path: ""
+    values:
+      width: 96
+      height: 96
+      image: https://esstudio.site/assets/img/logo.png
+      description: Convert any image to a base64 data url. Easy when you quickly need to inline images in your html or css pages.
