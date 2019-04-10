@@ -1,0 +1,6 @@
+These icons are a modification of an original image from the W3C SVG Working Group.
+
+Date:	              2006
+Source:	              "W3C SVG Working Group"
+Author:	              Harvey Rayner
+W3C Document License: http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231
