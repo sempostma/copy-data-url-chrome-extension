@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Copia l'URL dei dati"
+    },
+    "shortName": {
+        "message": "Copia l'URL dei dati"
+    },
+    "appDesc": {
+        "message": "Salva le immagini in URL di dati."
+    },
+    "copiedToClipboard": {
+        "message": "URL dei dati copiato negli appunti."
+    },
+    "copyDataUrl": {
+        "message": "Copia l'URL dei dati"
+    },
+    "error": {
+        "message": "Qualcosa è andato storto"
+    }
+}

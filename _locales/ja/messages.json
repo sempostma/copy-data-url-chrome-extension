@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "データのコピーURL"
+    },
+    "shortName": {
+        "message": "データのコピーURL"
+    },
+    "appDesc": {
+        "message": "画像をデータURLに保存します。"
+    },
+    "copiedToClipboard": {
+        "message": "データのURLがクリップボードにコピーされました。"
+    },
+    "copyDataUrl": {
+        "message": "データのコピーURL"
+    },
+    "error": {
+        "message": "何かがうまくいかなかった"
+    }
+}

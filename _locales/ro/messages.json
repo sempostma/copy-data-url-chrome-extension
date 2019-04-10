@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Copiați adresa URL a datelor"
+    },
+    "shortName": {
+        "message": "Copiați adresa URL a datelor"
+    },
+    "appDesc": {
+        "message": "Salvează imaginile la urlurile de date."
+    },
+    "copiedToClipboard": {
+        "message": "Fișierul de date copiat în clipboard."
+    },
+    "copyDataUrl": {
+        "message": "Copiați adresa URL a datelor"
+    },
+    "error": {
+        "message": "Ceva n-a mers bine"
+    }
+}

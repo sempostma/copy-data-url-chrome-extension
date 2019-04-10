@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Andmete URL-i kopeerimine"
+    },
+    "shortName": {
+        "message": "Andmete URL-i kopeerimine"
+    },
+    "appDesc": {
+        "message": "Salvestab pildid andmete URL-idesse."
+    },
+    "copiedToClipboard": {
+        "message": "Andmete url kopeeriti lõikepuhvrisse."
+    },
+    "copyDataUrl": {
+        "message": "Andmete URL-i kopeerimine"
+    },
+    "error": {
+        "message": "Midagi läks valesti"
+    }
+}

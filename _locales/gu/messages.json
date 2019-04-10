@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "કૉપિ કરો ડેટા URL"
+    },
+    "shortName": {
+        "message": "કૉપિ કરો ડેટા URL"
+    },
+    "appDesc": {
+        "message": "છબીઓ URL ને ડેટા સાચવે છે."
+    },
+    "copiedToClipboard": {
+        "message": "ક્લિપબોર્ડ પર ડેટા url કૉપિ કર્યો."
+    },
+    "copyDataUrl": {
+        "message": "કૉપિ કરો ડેટા URL"
+    },
+    "error": {
+        "message": "કંઈક ખોટું થયું"
+    }
+}

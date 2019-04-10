@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "የውሂብ url ቅዳ"
+    },
+    "shortName": {
+        "message": "የውሂብ url ቅዳ"
+    },
+    "appDesc": {
+        "message": "ምስሎችን ወደ ውሂብ ዩአርኤሎች ያስቀምጣል."
+    },
+    "copiedToClipboard": {
+        "message": "የውሂብ ዩአርኤል ወደ ቅንጥብ ሰሌዳ ተቀድቷል."
+    },
+    "copyDataUrl": {
+        "message": "የውሂብ url ቅዳ"
+    },
+    "error": {
+        "message": "የሆነ ስህተት ተከስቷል"
+    }
+}

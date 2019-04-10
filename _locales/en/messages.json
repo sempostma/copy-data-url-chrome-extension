@@ -1,0 +1,26 @@
+{
+    "appName": {
+        "message": "Copy data url",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "shortName": {
+        "message": "Copy data url",
+        "description": "The short title of this app."
+        },
+    "appDesc": {
+        "message": "Saves images to data urls.", 
+        "description":"The description of the application, displayed in the web store."
+    },
+    "copiedToClipboard": {
+        "message": "Data url copied to clipboard.",
+        "description": "The text to display when the data url is copied to the clipboard."
+    },
+    "copyDataUrl": {
+        "message": "Copy data url",
+        "description": "The context menu text."
+    },
+    "error": {
+        "message": "Something went wrong",
+        "description": "Error message."
+    }
+  }

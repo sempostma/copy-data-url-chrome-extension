@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Copia l’URL de dades"
+    },
+    "shortName": {
+        "message": "Copia l’URL de dades"
+    },
+    "appDesc": {
+        "message": "Desa les imatges a les adreces de dades."
+    },
+    "copiedToClipboard": {
+        "message": "URL de dades copiada al porta-retalls."
+    },
+    "copyDataUrl": {
+        "message": "Copia l’URL de dades"
+    },
+    "error": {
+        "message": "Alguna cosa ha anat malament"
+    }
+}

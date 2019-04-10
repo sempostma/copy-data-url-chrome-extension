@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Skopiuj adres URL danych"
+    },
+    "shortName": {
+        "message": "Skopiuj adres URL danych"
+    },
+    "appDesc": {
+        "message": "Zapisuje obrazy w adresach URL danych."
+    },
+    "copiedToClipboard": {
+        "message": "Adres URL skopiowany do schowka."
+    },
+    "copyDataUrl": {
+        "message": "Skopiuj adres URL danych"
+    },
+    "error": {
+        "message": "Coś poszło nie tak"
+    }
+}

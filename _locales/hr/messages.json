@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Kopiraj URL podataka"
+    },
+    "shortName": {
+        "message": "Kopiraj URL podataka"
+    },
+    "appDesc": {
+        "message": "Sprema slike u URL-ove podataka."
+    },
+    "copiedToClipboard": {
+        "message": "URL podataka kopiran je u međuspremnik."
+    },
+    "copyDataUrl": {
+        "message": "Kopiraj URL podataka"
+    },
+    "error": {
+        "message": "Nešto je pošlo po zlu"
+    }
+}

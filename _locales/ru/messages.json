@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Скопировать URL-адрес данных"
+    },
+    "shortName": {
+        "message": "Скопировать URL-адрес данных"
+    },
+    "appDesc": {
+        "message": "Сохраняет изображения в URL-адреса данных."
+    },
+    "copiedToClipboard": {
+        "message": "URL данных скопирован в буфер обмена."
+    },
+    "copyDataUrl": {
+        "message": "Скопировать URL-адрес данных"
+    },
+    "error": {
+        "message": "Что-то пошло не так"
+    }
+}

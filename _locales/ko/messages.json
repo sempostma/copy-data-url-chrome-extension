@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "데이터 URL 복사"
+    },
+    "shortName": {
+        "message": "데이터 URL 복사"
+    },
+    "appDesc": {
+        "message": "이미지를 데이터 URL에 저장합니다."
+    },
+    "copiedToClipboard": {
+        "message": "데이터 URL이 클립 보드에 복사되었습니다."
+    },
+    "copyDataUrl": {
+        "message": "데이터 URL 복사"
+    },
+    "error": {
+        "message": "문제가 발생했습니다."
+    }
+}

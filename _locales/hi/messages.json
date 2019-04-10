@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "कॉपी डेटा url"
+    },
+    "shortName": {
+        "message": "कॉपी डेटा url"
+    },
+    "appDesc": {
+        "message": "छवियों को डेटा यूआरएल में सहेजता है।"
+    },
+    "copiedToClipboard": {
+        "message": "डेटा url को क्लिपबोर्ड पर कॉपी किया गया।"
+    },
+    "copyDataUrl": {
+        "message": "कॉपी डेटा url"
+    },
+    "error": {
+        "message": "कुछ गलत हो गया"
+    }
+}

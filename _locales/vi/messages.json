@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Sao chép url dữ liệu"
+    },
+    "shortName": {
+        "message": "Sao chép url dữ liệu"
+    },
+    "appDesc": {
+        "message": "Lưu hình ảnh vào url dữ liệu."
+    },
+    "copiedToClipboard": {
+        "message": "Url dữ liệu được sao chép vào clipboard."
+    },
+    "copyDataUrl": {
+        "message": "Sao chép url dữ liệu"
+    },
+    "error": {
+        "message": "Đã xảy ra lỗi"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "คัดลอก URL ข้อมูล"
+    },
+    "shortName": {
+        "message": "คัดลอก URL ข้อมูล"
+    },
+    "appDesc": {
+        "message": "บันทึกภาพไปยัง URL ของข้อมูล"
+    },
+    "copiedToClipboard": {
+        "message": "คัดลอก URL ข้อมูลไปยังคลิปบอร์ดแล้ว"
+    },
+    "copyDataUrl": {
+        "message": "คัดลอก URL ข้อมูล"
+    },
+    "error": {
+        "message": "บางอย่างผิดพลาด"
+    }
+}

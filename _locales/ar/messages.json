@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "نسخ عنوان url للبيانات"
+    },
+    "shortName": {
+        "message": "نسخ عنوان url للبيانات"
+    },
+    "appDesc": {
+        "message": "يحفظ الصور إلى عناوين url للبيانات."
+    },
+    "copiedToClipboard": {
+        "message": "تم نسخ عنوان url للبيانات إلى الحافظة."
+    },
+    "copyDataUrl": {
+        "message": "نسخ عنوان url للبيانات"
+    },
+    "error": {
+        "message": "هناك خطأ ما"
+    }
+}

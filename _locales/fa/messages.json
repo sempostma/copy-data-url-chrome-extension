@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "کپی آدرس داده"
+    },
+    "shortName": {
+        "message": "کپی آدرس داده"
+    },
+    "appDesc": {
+        "message": "تصاویر را به URL های داده ذخیره می کند."
+    },
+    "copiedToClipboard": {
+        "message": "آدرس داده به کلیپبورد کپی شده است."
+    },
+    "copyDataUrl": {
+        "message": "کپی آدرس داده"
+    },
+    "error": {
+        "message": "چیزی اشتباه رفت"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Daten-URL kopieren"
+    },
+    "shortName": {
+        "message": "Daten-URL kopieren"
+    },
+    "appDesc": {
+        "message": "Speichert Bilder in Daten-URLs."
+    },
+    "copiedToClipboard": {
+        "message": "Daten-URL in die Zwischenablage kopiert."
+    },
+    "copyDataUrl": {
+        "message": "Daten-URL kopieren"
+    },
+    "error": {
+        "message": "Etwas ist schief gelaufen"
+    }
+}

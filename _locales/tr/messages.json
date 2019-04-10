@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Veri URL'sini kopyala"
+    },
+    "shortName": {
+        "message": "Veri URL'sini kopyala"
+    },
+    "appDesc": {
+        "message": "Görüntüleri veri URL'lerine kaydeder."
+    },
+    "copiedToClipboard": {
+        "message": "Veri URL'si panoya kopyalandı."
+    },
+    "copyDataUrl": {
+        "message": "Veri URL'sini kopyala"
+    },
+    "error": {
+        "message": "Bir şeyler yanlış gitti"
+    }
+}

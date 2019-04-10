@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Копирај урл података"
+    },
+    "shortName": {
+        "message": "Копирај урл података"
+    },
+    "appDesc": {
+        "message": "Чува слике у УРЛ-овима података."
+    },
+    "copiedToClipboard": {
+        "message": "УРЛ података је копиран у клипборд."
+    },
+    "copyDataUrl": {
+        "message": "Копирај урл података"
+    },
+    "error": {
+        "message": "Нешто није у реду"
+    }
+}

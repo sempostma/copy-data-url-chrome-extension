@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "डेटा url कॉपी करा"
+    },
+    "shortName": {
+        "message": "डेटा url कॉपी करा"
+    },
+    "appDesc": {
+        "message": "प्रतिमा डेटा url मध्ये जतन करते."
+    },
+    "copiedToClipboard": {
+        "message": "क्लिपबोर्डवर डेटा URL कॉपी केला."
+    },
+    "copyDataUrl": {
+        "message": "डेटा url कॉपी करा"
+    },
+    "error": {
+        "message": "काहीतरी चूक झाली"
+    }
+}

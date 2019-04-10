@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Kopioi datan URL-osoite"
+    },
+    "shortName": {
+        "message": "Kopioi datan URL-osoite"
+    },
+    "appDesc": {
+        "message": "Tallentaa kuvat datan URL-osoitteisiin."
+    },
+    "copiedToClipboard": {
+        "message": "Tietojen URL-osoite kopioidaan leikepöydälle."
+    },
+    "copyDataUrl": {
+        "message": "Kopioi datan URL-osoite"
+    },
+    "error": {
+        "message": "Jotain meni pieleen"
+    }
+}

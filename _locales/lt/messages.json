@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Kopijuoti duomenų URL"
+    },
+    "shortName": {
+        "message": "Kopijuoti duomenų URL"
+    },
+    "appDesc": {
+        "message": "Įrašo vaizdus į duomenų URL."
+    },
+    "copiedToClipboard": {
+        "message": "Duomenų URL nukopijuota į iškarpinę."
+    },
+    "copyDataUrl": {
+        "message": "Kopijuoti duomenų URL"
+    },
+    "error": {
+        "message": "Kažkas negerai"
+    }
+}

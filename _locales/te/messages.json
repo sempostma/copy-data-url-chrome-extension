@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "డేటా url ను కాపీ చేయండి"
+    },
+    "shortName": {
+        "message": "డేటా url ను కాపీ చేయండి"
+    },
+    "appDesc": {
+        "message": "డేటా URL లకు చిత్రాలను ఆదా చేస్తుంది."
+    },
+    "copiedToClipboard": {
+        "message": "డేటా url క్లిప్బోర్డ్కు కాపీ చేయబడింది."
+    },
+    "copyDataUrl": {
+        "message": "డేటా url ను కాపీ చేయండి"
+    },
+    "error": {
+        "message": "ఏదో తప్పు జరిగింది"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Salin url data"
+    },
+    "shortName": {
+        "message": "Salin url data"
+    },
+    "appDesc": {
+        "message": "Menyimpan gambar ke url data."
+    },
+    "copiedToClipboard": {
+        "message": "URL data disalin ke clipboard."
+    },
+    "copyDataUrl": {
+        "message": "Salin url data"
+    },
+    "error": {
+        "message": "Ada yang salah"
+    }
+}

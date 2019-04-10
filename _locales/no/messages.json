@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Kopier data url"
+    },
+    "shortName": {
+        "message": "Kopier data url"
+    },
+    "appDesc": {
+        "message": "Lagrer bilder til dataadresser."
+    },
+    "copiedToClipboard": {
+        "message": "Data url kopiert til utklippstavlen."
+    },
+    "copyDataUrl": {
+        "message": "Kopier data url"
+    },
+    "error": {
+        "message": "Noe gikk galt"
+    }
+}

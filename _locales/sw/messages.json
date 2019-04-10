@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Nakili url ya data"
+    },
+    "shortName": {
+        "message": "Nakili url ya data"
+    },
+    "appDesc": {
+        "message": "Inasaidia picha kwenye urls za data."
+    },
+    "copiedToClipboard": {
+        "message": "Url ya data imechapishwa kwa ubaoboaji."
+    },
+    "copyDataUrl": {
+        "message": "Nakili url ya data"
+    },
+    "error": {
+        "message": "Kitu fulani kilikuwa kibaya"
+    }
+}

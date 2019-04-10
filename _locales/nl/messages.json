@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Gegevens url kopiëren"
+    },
+    "shortName": {
+        "message": "Gegevens url kopiëren"
+    },
+    "appDesc": {
+        "message": "Slaat afbeeldingen op in gegevens urls."
+    },
+    "copiedToClipboard": {
+        "message": "Gegevens url gekopieerd naar klembord."
+    },
+    "copyDataUrl": {
+        "message": "Gegevens url kopiëren"
+    },
+    "error": {
+        "message": "Er is iets fout gegaan"
+    }
+}

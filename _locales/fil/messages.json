@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Kopyahin ang url ng data"
+    },
+    "shortName": {
+        "message": "Kopyahin ang url ng data"
+    },
+    "appDesc": {
+        "message": "Makakatipid ng mga imahe sa mga url ng data."
+    },
+    "copiedToClipboard": {
+        "message": "Kinopya ang url ng data sa clipboard."
+    },
+    "copyDataUrl": {
+        "message": "Kopyahin ang url ng data"
+    },
+    "error": {
+        "message": "May nagkamali"
+    }
+}

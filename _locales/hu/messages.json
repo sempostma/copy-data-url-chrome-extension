@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Adat url másolása"
+    },
+    "shortName": {
+        "message": "Adat url másolása"
+    },
+    "appDesc": {
+        "message": "Képek mentése az adat URL-ekbe."
+    },
+    "copiedToClipboard": {
+        "message": "Az adatok url másolása a vágólapra."
+    },
+    "copyDataUrl": {
+        "message": "Adat url másolása"
+    },
+    "error": {
+        "message": "Valami elromlott"
+    }
+}

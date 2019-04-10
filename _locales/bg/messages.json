@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Копиране на URL адреса на данните"
+    },
+    "shortName": {
+        "message": "Копиране на URL адреса на данните"
+    },
+    "appDesc": {
+        "message": "Запазва изображенията към URL адресите на данни."
+    },
+    "copiedToClipboard": {
+        "message": "URL адресът на данните е копиран в клипборда."
+    },
+    "copyDataUrl": {
+        "message": "Копиране на URL адреса на данните"
+    },
+    "error": {
+        "message": "Нещо се обърка"
+    }
+}

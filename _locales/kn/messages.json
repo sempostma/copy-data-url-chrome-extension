@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "ಡೇಟಾ url ನಕಲಿಸಿ"
+    },
+    "shortName": {
+        "message": "ಡೇಟಾ url ನಕಲಿಸಿ"
+    },
+    "appDesc": {
+        "message": "ಡೇಟಾ url ಗೆ ಚಿತ್ರಗಳನ್ನು ಉಳಿಸುತ್ತದೆ."
+    },
+    "copiedToClipboard": {
+        "message": "ಕ್ಲಿಪ್ಬೋರ್ಡ್ಗೆ ಡೇಟಾ url ನಕಲಿಸಲಾಗಿದೆ."
+    },
+    "copyDataUrl": {
+        "message": "ಡೇಟಾ url ನಕಲಿಸಿ"
+    },
+    "error": {
+        "message": "ಏನೋ ತಪ್ಪಾಗಿದೆ"
+    }
+}

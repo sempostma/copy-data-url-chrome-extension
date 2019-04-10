@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "ഡാറ്റ url പകർത്തുക"
+    },
+    "shortName": {
+        "message": "ഡാറ്റ url പകർത്തുക"
+    },
+    "appDesc": {
+        "message": "ഇമേജ് urls- ൽ ചിത്രങ്ങൾ സംരക്ഷിക്കുന്നു."
+    },
+    "copiedToClipboard": {
+        "message": "ഡാറ്റ url ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി."
+    },
+    "copyDataUrl": {
+        "message": "ഡാറ്റ url പകർത്തുക"
+    },
+    "error": {
+        "message": "എന്തോ കുഴപ്പം സംഭവിച്ചു"
+    }
+}

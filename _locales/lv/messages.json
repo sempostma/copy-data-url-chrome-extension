@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Kopēt datu URL"
+    },
+    "shortName": {
+        "message": "Kopēt datu URL"
+    },
+    "appDesc": {
+        "message": "Saglabā attēlus datu URL."
+    },
+    "copiedToClipboard": {
+        "message": "Datu url kopēts starpliktuvē."
+    },
+    "copyDataUrl": {
+        "message": "Kopēt datu URL"
+    },
+    "error": {
+        "message": "Kaut kas nogāja greizi"
+    }
+}

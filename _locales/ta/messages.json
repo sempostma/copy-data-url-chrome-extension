@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "தரவு url ஐ நகலெடு"
+    },
+    "shortName": {
+        "message": "தரவு url ஐ நகலெடு"
+    },
+    "appDesc": {
+        "message": "தரவு URL களுக்கு படங்களை சேமிக்கிறது."
+    },
+    "copiedToClipboard": {
+        "message": "தரவு URL கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது."
+    },
+    "copyDataUrl": {
+        "message": "தரவு url ஐ நகலெடு"
+    },
+    "error": {
+        "message": "ஏதோ தவறு நடந்துவிட்டது"
+    }
+}

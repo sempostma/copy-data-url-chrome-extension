@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "কপি ডাটা ইউআরএল"
+    },
+    "shortName": {
+        "message": "কপি ডাটা ইউআরএল"
+    },
+    "appDesc": {
+        "message": "তথ্য url ইমেজ সংরক্ষণ করে।"
+    },
+    "copiedToClipboard": {
+        "message": "ক্লিপবোর্ডে কপি করা ডেটা url।"
+    },
+    "copyDataUrl": {
+        "message": "কপি ডাটা ইউআরএল"
+    },
+    "error": {
+        "message": "কিছু ভুল হয়েছে"
+    }
+}

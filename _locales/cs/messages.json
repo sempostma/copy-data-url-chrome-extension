@@ -1,0 +1,20 @@
+{
+    "appName": {
+        "message": "Kopírovat data url"
+    },
+    "shortName": {
+        "message": "Kopírovat data url"
+    },
+    "appDesc": {
+        "message": "Uloží snímky do datových adres URL."
+    },
+    "copiedToClipboard": {
+        "message": "Adresa URL dat byla zkopírována do schránky."
+    },
+    "copyDataUrl": {
+        "message": "Kopírovat data url"
+    },
+    "error": {
+        "message": "Něco se pokazilo"
+    }
+}
