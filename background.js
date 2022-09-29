@@ -1,4 +1,3 @@
-const console = chrome.extension.getBackgroundPage().console;
 
 const blobToDataUrl = blob => new Promise((resolve, reject) => {
   const reader = new FileReader();
@@ -13,30 +12,32 @@ const toDataURL = url => fetch(url)
 
 const saveAsDataUrl = srcUrl => {
   if (isDataURL(srcUrl)) {
-    copy(srcUrl, 'text/plain');
-    alert(chrome.i18n.getMessage("copiedToClipboard"));
+    return Promise.resolve(srcUrl)
   } else {
-    toDataURL(srcUrl)
-      .then(dataUrl => {
-        copy(dataUrl, 'text/plain');
-        alert(chrome.i18n.getMessage("copiedToClipboard"));
-      }).catch(console.error);
+    return toDataURL(srcUrl)
   }
 };
 
 let saveSvgUriMenuId = false;
 let svg = false;
 
-chrome.contextMenus.onClicked.addListener(({ menuItemId, srcUrl }) => {
+chrome.contextMenus.onClicked.addListener(async ({ menuItemId, srcUrl }, tab) => {
+  if (!tab) {
+    console.error('No tab')
+    return;
+  }
   if (menuItemId === saveSvgUriMenuId) {
-    if (!srcUrl && !svg) return alert(chrome.i18n.getMessage('error'));
-    else if (srcUrl) {
-      saveAsDataUrl(srcUrl);
-    } else {
-      svgXmlToDataUri(svg).then(saveAsDataUrl);
+    let dataUri;
+    if (!srcUrl && !svg) {
+      console.error('No svg or srcUrl')
+      return
     }
-  } else {
-    return alert(chrome.i18n.getMessage('error'));
+    else if (srcUrl) {
+      dataUri = await saveAsDataUrl(srcUrl);
+    } else {
+      dataUri = await svgXmlToDataUri(svg).then(saveAsDataUrl);
+    }
+    chrome.tabs.sendMessage(tab.id, {ACTION: "COPY", text: dataUri});  
   }
 })
 
@@ -60,23 +61,12 @@ chrome.runtime.onMessage.addListener(function (msg, sender, sendResponse) {
       }
     }
   }
-  sendResponse("Gotcha!");
 });
-
-const copy = (str, mimetype) => {
-  document.oncopy = function (event) {
-    event.clipboardData.setData(mimetype, str);
-    event.preventDefault();
-  };
-  document.execCommand("Copy", false, null);
-}
 
 const isDataURL = s => {
   return !!s.match(isDataURL.regex);
 }
 isDataURL.regex = /^\s*data:([a-z]+\/[a-z]+(;[a-z\-]+\=[a-z\-]+)?)?(;base64)?,[a-z0-9\!\$\&\'\,\(\)\*\+\,\;\=\-\.\_\~\:\@\/\?\%\s]*\s*$/i;
-
-// 
 
 const svgXmlToDataUri = async xmlSource => {
   if (!xmlSource.match(/^<svg[^>]+xmlns="http:\/\/www\.w3\.org\/2000\/svg"/)) {
@@ -91,10 +81,8 @@ const svgXmlToDataUri = async xmlSource => {
   const svg64 = encodeURIComponent(xmlSource);
   const b64Start = 'data:image/svg+xml;charset=utf-8,';
 
-  const imgEl = new Image();
   const image64 = b64Start + svg64;
-  imgEl.src = image64;
 
-  const blobResp = await fetch(imgEl.src);
+  const blobResp = await fetch(image64);
   return await blobResp.blob().then(blobToDataUrl);
 }
